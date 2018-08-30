@@ -1,0 +1,1 @@
+require('seneca').use('math').listen({type : 'tcp'}) ; // 使用TCP通信,默认端口10101

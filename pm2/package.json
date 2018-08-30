@@ -1,0 +1,14 @@
+{
+  "name": "pm2-sample",
+  "version": "1.0.0",
+  "description": "study pm2.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wen.li",
+  "license": "ISC",
+  "dependencies": {
+    "logrotate": "0.0.1"
+  }
+}
